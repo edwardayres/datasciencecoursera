@@ -74,4 +74,6 @@ The values in the variables below correspond to the mean of the data collected f
   * fBodyBodyGyroJerkMag-std()
 
 
-### 
+### Study design
+
+For study design information see `README.txt` file in `UCI HAR Dataset` folder.
