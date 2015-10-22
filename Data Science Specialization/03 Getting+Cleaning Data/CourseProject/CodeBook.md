@@ -1,11 +1,11 @@
 ### Variables
 
-The columns included in the output file, 'tidy_data.txt', are listed below:
+The columns included in the output file, `tidy_data.txt`, are listed below:
 
   * subject - ID for each experiment participant.
   * activity - Physical activity performed by the subject.
 
-The values in the variables below correspond to the mean of the data collected for each subject performing each activity. See 'features_info.txt' for additional information.
+The values in the variables below correspond to the mean of the data collected for each subject performing each activity. See `features_info.txt` for additional information.
   * tBodyAcc-mean()-X	
   * tBodyAcc-mean()-Y	
   * tBodyAcc-mean()-Z	
